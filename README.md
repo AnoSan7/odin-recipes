@@ -1,11 +1,5 @@
 # Odin-Recipes
 
-The current project is recipes from The Odin Project
+A website that teaches you to create some popular recipes
 
-## Skills learnt
-
-HTML, Git, WSL.
-
----
-
-[The Odin Project](https://www.theodinproject.com)
+Live site: https://anosan7.github.io/odin-recipes
